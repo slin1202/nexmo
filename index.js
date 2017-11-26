@@ -7,4 +7,4 @@ app.get('/incoming-sms', (req, res) => {
   res.sendStatus(200)
 })
 
-app.listen(80)
+app.listen(3000)
